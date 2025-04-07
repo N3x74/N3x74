@@ -38,11 +38,11 @@ I'm a passionate **Software Developer** with expertise in **Web Development**, *
 
 ## 📈 GitHub Stats
 
-![N3x74](https://github-readme-stats.vercel.app/api?username=N3x74&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)
+[![N3x74](https://github-readme-stats.vercel.app/api?username=N3x74&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=radical)](https://github.com/N3x74)
 
 ---
 
 ## 📣 Let's Connect
 
 - [Telegram](https://t.me/N3x74)
-- 
+
